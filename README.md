@@ -6,7 +6,7 @@ A list of climate friendly extensions that can help you reduce the carbon footpr
 ## Globemallow
 ### Description
 
-Use Globemallow to quickly view a sustainability grade and sustainability metrics for a website that you visit..
+Use Globemallow to quickly view a sustainability grade and sustainability metrics for a website that you visit.
 Globemallow was created to help designers and developers build websites using more sustainable development practices.
 
 **The Sustainability Grade**
@@ -18,11 +18,12 @@ Globemallow uses the US Academic Grading System:
 - Energy consumption estimations are supplied by The Shift Project: https://github.com/carbonalyser/Carbonalyser
 
 ### Browser compatibility
-Available on Chrome and Firefox.
+Available on Chrome and Edge.
 
 ### Extension URL
 
-https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd
+- Chrome: https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd
+- Edge: https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc
 
 ### Extension size
 
