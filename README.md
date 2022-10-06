@@ -17,7 +17,7 @@ Globemallow uses the US Academic Grading System:
 **Built on Open Source:**
 - Energy consumption estimations are supplied by The Shift Project: https://github.com/carbonalyser/Carbonalyser
 
-### Browser compatibility
+#### Browser compatibility
 Available on Chrome and Edge.
 
 #### Extension URL
