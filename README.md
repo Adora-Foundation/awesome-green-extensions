@@ -33,6 +33,26 @@ Available on Chrome and Edge.
 
 4 September 2022
 
+### GreenIT-Analysis
+#### Description
+The extension allows you to use your Dev Tools to:
+- measure the ecoIndex of a website as defined by the ecoindex web site http://www.ecoindex.fr/quest-ce-que-ecoindex/
+- verify the application of web eco-design best practices defined by the "Collectif numérique responsable": https://collectif.greenit.fr/ecoconception-web/
+
+This extension is also open-source! More information on https://github.com/cnumr/GreenIT-Analysis
+
+**The extension needs the following permissions:** 
+If you are having issues with this extension, the project README on github has some helpful information regarding permissions and fixes.
+#### Browser compatibility
+Chrome, FireFox
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/
+#### Extension size
+269KiB
+#### Extension last updated
+10 September 2022
+
 ### eCO2logy
 
 ### The Green Web
