@@ -42,6 +42,23 @@ Available on Chrome and Edge.
 ### Earth Mode
 
 ### Website Footprint
+#### Description
+The extension provides a carbon score for the websites you visit. 
+
+Features :
+- Get the carbon score of the visited website
+- Watch the consumption for your whole session
+- Convert co2 into coal for a better understanding of risks
+
+The extension does not collect any data and does not use any external server. Learn more here: https://www.website-footprint.com/en/
+#### Browser compatibility
+Chrome
+#### Extension URL
+https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigbllcnpckflnik
+#### Extension size
+12.72KiB
+#### Extension last updated
+15 April 2022
 
 ### GreenIT-Analysis
 
