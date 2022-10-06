@@ -1,10 +1,10 @@
 # awesome-green-extensions
 A list of climate friendly extensions that can help you reduce the carbon footprint of your internet consumption. Work in progress. Needs links and descriptions and currently focused on Chrome.  Feel free to recommend more via Issue or ideally PR.
 
-# CO2 emissions trackers and green website raters
+## CO2 emissions trackers and green website raters
 
-## Globemallow
-### Description
+### Globemallow
+#### Description
 
 Use Globemallow to quickly view a sustainability grade and sustainability metrics for a website that you visit.
 Globemallow was created to help designers and developers build websites using more sustainable development practices.
@@ -20,16 +20,16 @@ Globemallow uses the US Academic Grading System:
 ### Browser compatibility
 Available on Chrome and Edge.
 
-### Extension URL
+#### Extension URL
 
 - Chrome: https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd
 - Edge: https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc
 
-### Extension size
+#### Extension size
 
 97.55KiB
 
-### Extension last updated 
+#### Extension last updated 
 
 4 September 2022
 
