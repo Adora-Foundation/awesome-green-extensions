@@ -45,8 +45,8 @@ If you experience any bugs with this extension, the project README file on githu
 #### Browser compatibility
 Chrome, FireFox
 #### Extension URL
-Chrome: https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/
+- Chrome: https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/
 #### Extension size
 269KiB
 #### Extension last updated
