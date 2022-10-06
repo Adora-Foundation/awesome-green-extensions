@@ -41,8 +41,7 @@ The extension allows you to use your Dev Tools to:
 
 This extension is also open-source! More information on https://github.com/cnumr/GreenIT-Analysis
 
-**The extension needs the following permissions:** 
-If you are having issues with this extension, the project README on github has some helpful information regarding permissions and fixes.
+If you experience any bugs with this extension,the project README file on github has some helpful information regarding permissions and fixes.
 #### Browser compatibility
 Chrome, FireFox
 #### Extension URL
