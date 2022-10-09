@@ -5,7 +5,6 @@ A list of climate friendly extensions that can help you reduce the carbon footpr
 
 ### Globemallow
 #### Description
-
 Use Globemallow to quickly view a sustainability grade and sustainability metrics for a website that you visit.
 Globemallow was created to help designers and developers build websites using more sustainable development practices.
 
@@ -23,23 +22,18 @@ Globemallow uses the US Academic Grading System:
 Available on Chrome and Edge.
 
 #### Extension URL
-
 - Chrome: https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd
 - Edge: https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc
 
 #### Extension size
-
 97.55KiB
 
 #### Extension last updated 
-
 4 September 2022
 
 
 ### GreenIT-Analysis
-
 #### Description
-
 The extension allows you to use your Dev Tools to:
 - measure the ecoIndex of a website as defined by the ecoindex web site http://www.ecoindex.fr/quest-ce-que-ecoindex/
 - verify the application of web eco-design best practices defined by the "Collectif numérique responsable": https://collectif.greenit.fr/ecoconception-web/
@@ -49,11 +43,9 @@ This extension is also open-source! More information on https://github.com/cnumr
 If you experience any bugs with this extension, the project README file on github has some helpful information regarding permissions and fixes.
 
 #### Browser compatibility
-
 Chrome, FireFox
 
 #### Extension URL
-
 - Chrome: https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/
 #### Extension size
