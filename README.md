@@ -35,6 +35,16 @@ Available on Chrome and Edge.
 
 ### eCO2logy
 
+#### Description
+
+#### Browser compatibility
+
+#### Extension URL
+
+#### Extension size
+#### Extension last updated
+
+* * * 
 ### The Green Web
 
 ### Klima
