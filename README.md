@@ -62,6 +62,8 @@ Chrome, FireFox
 
 ### Earth Mode
 
+* * *
+
 ### Website Footprint
 #### Description
 The extension provides a carbon score for the websites you visit. 
