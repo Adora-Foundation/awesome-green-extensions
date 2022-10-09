@@ -62,6 +62,11 @@ https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigb
 
 ### GreenIT-Analysis
 
+
+### Beacon
+
+### Carbonly
+
 ### Careplane
 
 #### Description
@@ -83,11 +88,6 @@ https://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakn
 4 September 2012
 
 * * *
-### Beacon
-
-### Carbonly
-
-
 ## Browser energy consumption optimisers
 
 ### Tab Suspender
