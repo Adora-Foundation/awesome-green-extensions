@@ -64,6 +64,25 @@ https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigb
 
 ### Careplane
 
+#### Description
+
+*This extension is not currently maintained or active is not currently working*
+Real-time carbon footprints inserted into your favorite travel search sites.
+Careplane displays carbon footprints of flights on popular travel sites, like Kayak, Orbitz, Bing, and Hipmunk. It will help you find the greenest flight, whether you have personal or business sustainability goals.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+https://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakndkgl/related
+
+#### Extension size
+123KiB
+
+#### Extension last updated
+4 September 2012
+
+* * *
 ### Beacon
 
 ### Carbonly
