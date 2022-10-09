@@ -81,6 +81,7 @@ https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigb
 #### Extension last updated
 15 April 2022
 
+* * *
 ### GreenIT-Analysis
 
 ### Careplane
