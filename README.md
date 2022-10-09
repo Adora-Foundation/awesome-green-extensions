@@ -82,6 +82,24 @@ https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigb
 
 ### Beacon
 
+#### Description
+Digital Beacon is an online tool that calculates and provides a detailed report on a website’s environmental impact. The report includes an overview of opportunities to help lower the emissions of that website.
+This extension automatically runs the site you’re browsing through [digitalbeacon.co](http://digitalbeacon.co/) and takes you to the results page. Great for on-the-fly testing.
+
+#### Browser compatibility
+Chrome, Firefox
+
+#### Extension URL
+- Chrome: https://chrome.google.com/webstore/detail/beacon/bflpbnopaodpkggmcehmpdneahmnckekhttps://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakndkgl/related
+- Firefox: https://addons.mozilla.org/en-GB/firefox/addon/beacon/
+
+#### Extension size
+13.39KiB
+
+#### Extension last updated
+1 April 2021
+
+* * *
 ### Carbonly
 
 
