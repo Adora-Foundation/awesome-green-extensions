@@ -39,6 +39,22 @@ Available on Chrome and Edge.
 
 ### Klima
 
+#### Description
+An extension that will track your carbon footprint when using Google Search or watching videos on YouTube.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+https://chrome.google.com/webstore/detail/klima-your-online-carbon/ehofddgcnmijknefgjnldeimlgklaeoa
+
+#### Extension size
+24.02KiB
+
+#### Extension last updated
+10 October 2019 
+
+* * *
 ### Earth Mode
 
 ### Website Footprint
