@@ -33,18 +33,7 @@ Available on Chrome and Edge.
 
 4 September 2022
 
-### eCO2logy
 
-#### Description
-
-#### Browser compatibility
-
-#### Extension URL
-
-#### Extension size
-#### Extension last updated
-
-* * * 
 ### The Green Web
 
 ### Klima
@@ -78,6 +67,25 @@ https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigb
 
 ### Carbonly
 
+### eCO2logy
+
+#### Description
+Eco2logy is a tool to help you be more aware of the environmental impact of our web browsing by converting your browsing history into "equivalent grams of CO2".
+Please note that this extension is available in French only.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+https://chrome.google.com/webstore/detail/eco2logy/injkhbadkipaflldkehemjglmgdnfdoj?hl=fr
+
+#### Extension size
+464KiB
+
+#### Extension last updated
+November 22, 2016
+
+* * * 
 
 ## Browser energy consumption optimisers
 
