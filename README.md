@@ -9,12 +9,14 @@ A list of climate friendly extensions that can help you reduce the carbon footpr
 Use Globemallow to quickly view a sustainability grade and sustainability metrics for a website that you visit.
 Globemallow was created to help designers and developers build websites using more sustainable development practices.
 
-**The Sustainability Grade**
+* The Sustainability Grade *
+
 Globemallow uses the US Academic Grading System:
 - A+ is a good grade for a sustainable website 
 - F will be the rating score for websites that could use more work to be more sustainable. 
 
-**Built on Open Source:**
+* Built on Open Source: *
+
 - Energy consumption estimations are supplied by The Shift Project: https://github.com/carbonalyser/Carbonalyser
 
 #### Browser compatibility
