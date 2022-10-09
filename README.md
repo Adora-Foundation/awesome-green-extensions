@@ -57,10 +57,8 @@ Chrome, FireFox
 - Chrome: https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/
 #### Extension size
-
 269KiB
 #### Extension last updated
-
 10 September 2022
 
 
