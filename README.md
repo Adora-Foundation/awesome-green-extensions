@@ -53,8 +53,7 @@ Chrome, FireFox
 #### Extension last updated
 10 September 2022
 
-
-
+* * *
 ### eCO2logy
 
 ### The Green Web
