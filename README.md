@@ -54,15 +54,6 @@ Chrome, FireFox
 10 September 2022
 
 * * *
-### eCO2logy
-
-### The Green Web
-
-### Klima
-
-### Earth Mode
-
-* * *
 
 ### Website Footprint
 #### Description
@@ -84,6 +75,13 @@ https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigb
 15 April 2022
 
 * * *
+### eCO2logy
+
+### The Green Web
+
+### Klima
+
+### Earth Mode
 
 ### Careplane
 
