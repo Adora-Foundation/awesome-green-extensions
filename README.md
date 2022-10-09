@@ -31,7 +31,7 @@ Available on Chrome and Edge.
 #### Extension last updated 
 4 September 2022
 
-
+* * *
 ### GreenIT-Analysis
 #### Description
 The extension allows you to use your Dev Tools to:
