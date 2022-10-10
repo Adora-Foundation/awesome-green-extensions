@@ -144,8 +144,6 @@ https://chrome.google.com/webstore/detail/klima-your-online-carbon/ehofddgcnmijk
 * * *
 ### Earth Mode
 
-### Earth Mode
-
 ### Careplane
 
 ### Beacon
