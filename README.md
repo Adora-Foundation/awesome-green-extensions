@@ -54,7 +54,6 @@ Chrome, FireFox
 10 September 2022
 
 * * *
-
 ### Website Footprint
 #### Description
 The extension provides a carbon score for the websites you visit. 
@@ -100,7 +99,32 @@ November 22, 2016
 
 * * * 
 ### The Green Web
+#### Description
+Automatically check the sustainability of a website with The Green Web add-on.
+With this extension, you can see the green (or not-so-green) status of a website at glance, based on what kind of energy is used to power the servers it runs on.
 
+*Key features include:*
+- Quickly assess whether a site you're browsing is using green power by looking for the green smiley face icon next to your browser.
+- If you're on a search page or a page with links to external sites, you can see if the external site is hosted on green servers too because they'll have a green dashed underline underneath them.
+
+The Green Web Foundation maintains an open database listing which datacentres around the world run on green power.  We use this to present this information in this browser extension.
+
+*Open source*
+- Look under the hood or contribute here: https://github.com/thegreenwebfoundation/web-extension
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+https://chrome.google.com/webstore/detail/the-green-web/ekiibapogjgmlhlhpoalbppfhhgkcogc
+
+#### Extension size
+300KiB
+
+#### Extension last updated 
+17 July 2020
+
+ * * *
 ### Klima
 
 ### Earth Mode
