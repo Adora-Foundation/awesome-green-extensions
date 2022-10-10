@@ -54,6 +54,7 @@ Chrome, FireFox
 10 September 2022
 
 * * *
+
 ### Website Footprint
 #### Description
 The extension provides a carbon score for the websites you visit. 
@@ -142,7 +143,25 @@ https://chrome.google.com/webstore/detail/klima-your-online-carbon/ehofddgcnmijk
 10 October 2019 
 
 * * *
+
 ### Earth Mode
+
+#### Description
+Earth Mode tracks your online energy use: from browsing to streaming, to updating your social status. Once we know how much you use, Johnnie Walker will calculate your carbon footprint and plant trees to neutralise it.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+https://chrome.google.com/webstore/detail/earth-mode/bnngfkajcebapkeccnhgilaligcbpbmj
+
+#### Extension size
+2.65MiB
+
+#### Extension last updated
+9 May 2016
+
+* * * 
 
 ### Careplane
 
