@@ -185,6 +185,34 @@ Chrome, Firefox
 * * *
 ### Carbonly
 
+#### Description
+
+A browser extension for tracking your online carbon footprint.
+Create an account to use Carbonly 🌿 and be able to:
+(#1) Visualise the Emissions of Everyday Products 💨
+(#2) Track The Carbon Footprint of Any Purchase  🎁
+(#3) See Your Complete Footprint Anytime, Everytime 📈
+(#3) Offset Your Entire Footprint 🌿
+(#4) Compete With Friends! 🍻
+
+#### Browser compatibility
+
+Chrome
+
+#### Extension URL
+
+https://chrome.google.com/webstore/detail/carbonly-%F0%9F%8C%BF/anipbbamcfddggbegnjdmphhajmgclpn
+
+#### Extension size
+
+6.16MiB
+
+#### Extension last updated
+
+12 August 2020
+
+* * * 
+
 ### Careplane
 
 #### Description
