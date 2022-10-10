@@ -5,40 +5,55 @@ A list of climate friendly extensions that can help you reduce the carbon footpr
 
 ### Globemallow
 #### Description
-
 Use Globemallow to quickly view a sustainability grade and sustainability metrics for a website that you visit.
 Globemallow was created to help designers and developers build websites using more sustainable development practices.
 
-**The Sustainability Grade**
+*The Sustainability Grade*
+
 Globemallow uses the US Academic Grading System:
 - A+ is a good grade for a sustainable website 
 - F will be the rating score for websites that could use more work to be more sustainable. 
 
-**Built on Open Source:**
+*Built on Open Source:*
+
 - Energy consumption estimations are supplied by The Shift Project: https://github.com/carbonalyser/Carbonalyser
 
 #### Browser compatibility
 Available on Chrome and Edge.
 
 #### Extension URL
-
 - Chrome: https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd
 - Edge: https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc
 
 #### Extension size
-
 97.55KiB
 
 #### Extension last updated 
-
 4 September 2022
 
+* * *
+### GreenIT-Analysis
+#### Description
+The extension allows you to use your Dev Tools to:
+- measure the ecoIndex of a website as defined by the ecoindex web site http://www.ecoindex.fr/quest-ce-que-ecoindex/
+- verify the application of web eco-design best practices defined by the "Collectif numérique responsable": https://collectif.greenit.fr/ecoconception-web/
 
-### The Green Web
+This extension is also open-source! More information on https://github.com/cnumr/GreenIT-Analysis
 
-### Klima
+If you experience any bugs with this extension, the project README file on github has some helpful information regarding permissions and fixes.
 
-### Earth Mode
+#### Browser compatibility
+Chrome, FireFox
+
+#### Extension URL
+- Chrome: https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/
+#### Extension size
+269KiB
+#### Extension last updated
+10 September 2022
+
+* * *
 
 ### Website Footprint
 #### Description
@@ -59,14 +74,7 @@ https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigb
 #### Extension last updated
 15 April 2022
 
-### GreenIT-Analysis
-
-### Careplane
-
-### Beacon
-
-### Carbonly
-
+* * *
 ### eCO2logy
 
 #### Description
@@ -86,6 +94,19 @@ https://chrome.google.com/webstore/detail/eco2logy/injkhbadkipaflldkehemjglmgdnf
 November 22, 2016
 
 * * * 
+### The Green Web
+
+### Klima
+
+### Earth Mode
+
+### Careplane
+
+### Beacon
+
+### Carbonly
+
+
 
 ## Browser energy consumption optimisers
 
