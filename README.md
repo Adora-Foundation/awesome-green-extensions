@@ -305,11 +305,28 @@ May 16, 2022
 
 * * *
 
+### The Great Suspender
+
+#### Description
+A lightweight extension to reduce chrome's memory footprint. Perfect if you have a lot of tabs open at the same time. Tabs that have not been viewed after a configurable length of time will be automagically suspended in the background, freeing up the memory and CPU being consumed by that tab.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+https://chrome.google.com/webstore/detail/the-great-suspender/jaekigmcljkkalnicnjoafgfjoefkpeg/related?hl=en
+
+#### Extension size
+203KiB
+
+#### Extension last updated
+March 31, 2021
+
+* * *
+
 ### OVO Carbon Capper
 
 ### Tabs Outliner
-
-### The Great Suspender
 
 
 
