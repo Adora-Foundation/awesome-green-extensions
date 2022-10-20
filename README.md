@@ -241,6 +241,24 @@ https://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakn
 
 ### Tab Suspender
 
+#### Description
+This one's for those of us who like to have multiple (or hundreds ¯\_(ツ)_/¯) of browser tabs open - this extension will help you and automatically accelerate your browser and purge the memory.
+Key features: automatically suspend, park, and hibernate inactive tabs; save up to 80% of memory; reduce heat, batter use and load on your device.
+
+#### Browser compatibility
+Chrome, Edge & Brave
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en
+
+#### Extension size
+2.26MiB
+
+#### Extension last updated
+September 27, 2022
+
+* * *
+
 ### OVO Carbon Capper
 
 ### Tabs Outliner
