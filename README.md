@@ -349,15 +349,17 @@ https://chrome.google.com/webstore/detail/ovo-carbon-capper/fhnhofnjjgdecmbjjjik
 ### Tabs Outliner
 
 #### Description
-
+Tabs Outliner is a tabs manager, session manager and a tree-like personal information organizer – all in one.
 #### Browser compatibility
-
+Chrome
 
 #### Extension URL
+https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl?hl=en
 
 #### Extension size
-
+1.31MiB
 #### Extension last updated
+April 7, 2021
 
 * * *
 
