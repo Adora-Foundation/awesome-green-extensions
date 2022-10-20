@@ -248,9 +248,8 @@ Key features: automatically suspend, park, and hibernate inactive tabs; save up 
 #### Browser compatibility
 Chrome, Edge & Brave
 
-#### Extension URL
+#### Browser compatibility (click to view extension URL)
 <a href="https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" />Chrome</a>
-Chrome: 
 
 #### Extension size
 2.26MiB
