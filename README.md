@@ -249,9 +249,9 @@ Key features: automatically suspend, park, and hibernate inactive tabs; save up 
 Chrome, Edge & Brave
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" />Edge</a>
-<a href="https://addons.opera.com/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" />Opera</a>
+<a href="https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://microsoftedge.microsoft.com/addons/detail/tab-suspender/mibmemlpefkkpbgcoicdfggnmjfajgpg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" />Edge</a><br>
+<a href="https://addons.opera.com/en/extensions/details/tab-suspender-tab-unloader/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" />Opera</a>
 
 #### Extension size
 2.26MiB
