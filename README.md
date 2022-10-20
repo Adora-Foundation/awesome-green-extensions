@@ -245,9 +245,6 @@ https://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakn
 This one's for those of us who like to have multiple (or hundreds ¯\_(ツ)_/¯) of browser tabs open - this extension will help you and automatically accelerate your browser and purge the memory.
 Key features: automatically suspend, park, and hibernate inactive tabs; save up to 80% of memory; reduce heat, batter use and load on your device.
 
-#### Browser compatibility
-Chrome, Edge & Brave
-
 #### Browser compatibility (click to view extension URL)
 <a href="https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
 <a href="https://microsoftedge.microsoft.com/addons/detail/tab-suspender/mibmemlpefkkpbgcoicdfggnmjfajgpg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
