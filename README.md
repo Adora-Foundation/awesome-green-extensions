@@ -250,8 +250,8 @@ Chrome, Edge & Brave
 
 #### Browser compatibility (click to view extension URL)
 <a href="https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
-<a href="https://microsoftedge.microsoft.com/addons/detail/tab-suspender/mibmemlpefkkpbgcoicdfggnmjfajgpg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" />Edge</a><br>
-<a href="https://addons.opera.com/en/extensions/details/tab-suspender-tab-unloader/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" />Opera</a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/tab-suspender/mibmemlpefkkpbgcoicdfggnmjfajgpg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
+<a href="https://addons.opera.com/en/extensions/details/tab-suspender-tab-unloader/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" /> Opera</a>
 
 #### Extension size
 2.26MiB
