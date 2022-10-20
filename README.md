@@ -282,13 +282,34 @@ September 19, 2022
 
 * * *
 
+### OneTab
+
+#### Description
+Save up to 95% of memory and reduce tab clutter; whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once.
+This one is super easy to use!
+
+#### 
+Chrome, Firefox, Edge, Safari
+
+#### Browser compatibility & Extension URL
+Chrome: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/onetab/
+Edge: https://microsoftedge.microsoft.com/addons/detail/onetab/hoimpamkkoehapgenciaoajfkfkpgfop
+Safari: https://apps.apple.com/gb/app/onetab/id1540160809
+
+#### Extension size
+1.23MiB
+
+#### Extension last updated
+May 16, 2022
+
+* * *
+
 ### OVO Carbon Capper
 
 ### Tabs Outliner
 
 ### The Great Suspender
-
-### OneTab
 
 
 
