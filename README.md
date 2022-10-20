@@ -259,6 +259,29 @@ September 27, 2022
 
 * * *
 
+### uBlock Origin
+
+#### Description
+An open-source and wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
+Learn more on Github: https://github.com/gorhill/uBlock
+
+#### Browser compatibility
+Chrome, Opera, Firefox, Edge
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+Opera: https://addons.opera.com/en/extensions/details/ublock/
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+Edge: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
+
+#### Extension size
+2.91MiB
+
+#### Extension last updated
+September 19, 2022
+
+* * *
+
 ### OVO Carbon Capper
 
 ### Tabs Outliner
@@ -267,7 +290,6 @@ September 27, 2022
 
 ### OneTab
 
-### uBlock Origin
 
 
 ## Carbon offset generators
