@@ -268,10 +268,10 @@ Learn more on Github: https://github.com/gorhill/uBlock
 Chrome, Opera, Firefox, Edge
 
 #### Extension URL
-Chrome: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
-Opera: https://addons.opera.com/en/extensions/details/ublock/
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-Edge: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
+- Chrome: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+- Opera: https://addons.opera.com/en/extensions/details/ublock/
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+- Edge: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 
 #### Extension size
 2.91MiB
@@ -291,10 +291,10 @@ This one is super easy to use!
 Chrome, Firefox, Edge, Safari
 
 #### Browser compatibility & Extension URL
-Chrome: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/onetab/
-Edge: https://microsoftedge.microsoft.com/addons/detail/onetab/hoimpamkkoehapgenciaoajfkfkpgfop
-Safari: https://apps.apple.com/gb/app/onetab/id1540160809
+- Chrome: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/onetab/
+- Edge: https://microsoftedge.microsoft.com/addons/detail/onetab/hoimpamkkoehapgenciaoajfkfkpgfop
+- Safari: https://apps.apple.com/gb/app/onetab/id1540160809
 
 #### Extension size
 1.23MiB
