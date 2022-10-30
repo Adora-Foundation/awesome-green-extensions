@@ -312,7 +312,7 @@ October 19, 2022
 ### Enable JavaScript
 
 #### Description
-An easily way to turn ON/OFF website's JavaScript with a single button.
+An easy way to turn ON/OFF website's JavaScript with a single button.
 
 #### Browser compatibility
 Chrome
@@ -325,25 +325,6 @@ Chrome: https://chrome.google.com/webstore/detail/enable-javascript/egljjlhdimce
 
 #### Extension last updated
 March 14, 2022
-
-* * *
-### Temporary Content Settings
-
-*This extension is not actively maintained and may no longer work as expected*
-
-Quickly make exceptions to content settings (JavaScript, cookies, images, plug-ins) for some or all sites for a set time through a button or popup menu.
-
-#### Browser compatibility
-Chrome
-
-#### Extension URL
-Chrome: https://chrome.google.com/webstore/detail/temporary-content-setting/kcpgnedeigljfpmokkmdonpejdghocff?hl=en#:~:text=Temporary%20Content%20Settings%20lets%20you,must%20later%20be%20cleared%20manually.
-
-#### Extension size
-33.78KiB
-
-#### Extension last updated
-June 18, 2017
 
 * * *
 
@@ -387,6 +368,26 @@ Chrome: https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghke
 
 #### Extension last updated
 September 8, 2019
+
+* * *
+
+### Temporary Content Settings
+
+*This extension is not actively maintained and may no longer work as expected*
+
+Quickly make exceptions to content settings (JavaScript, cookies, images, plug-ins) for some or all sites for a set time through a button or popup menu.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/temporary-content-setting/kcpgnedeigljfpmokkmdonpejdghocff?hl=en#:~:text=Temporary%20Content%20Settings%20lets%20you,must%20later%20be%20cleared%20manually.
+
+#### Extension size
+33.78KiB
+
+#### Extension last updated
+June 18, 2017
 
 * * *
 
