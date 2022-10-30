@@ -286,7 +286,7 @@ See information under *CO2 emissions trackers and green website raters* <a href=
 
 #### Description
 
-**This extension is no longer active**
+*This extension currently has some bugs and may not work as expected*
 
 Add this extension to Chrome, and every time you open a new tab, we'll show you an ad that helps fund sustainable bamboo forests that clean the atmosphere and restore balance.
 
@@ -305,7 +305,7 @@ July 22, 2019
 ### Treegle
 
 #### Description
-**This extension currently has some bugs and may not work as expected**
+*This extension currently has some bugs and may not work as expected*
 
 This extension sets your search engine to Treegle and customizes your new tab page so you can plant trees with every search.
 Treegle uses the bing search engine, but donates search and ad revenue to reforestation projects.
