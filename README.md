@@ -295,13 +295,14 @@ See information under *CO2 emissions trackers and green website raters* <a href=
 
 #### Description
 
-* This extension is no longer active *
+**This extension is no longer active**
+
 Add this extension to Chrome, and every time you open a new tab, we'll show you an ad that helps fund sustainable bamboo forests that clean the atmosphere and restore balance.
 
 ### Treegle
 
 #### Description
-* This extension is no longer active *
+**This extension is no longer active**
 
 This extension sets your search engine to Treegle and customizes your new tab page so you can plant trees with every search.
 Treegle uses the bing search engine, but donates search and ad revenue to reforestation projects.
@@ -318,12 +319,12 @@ March 1, 2021
 
 ### refoorest
 
-### refoorest
-
 #### Description
 reeforest is a free solution to plant trees without changing your search engine: https://www.refoorest.com/en/
 
 #### Browser compatibility
+
+Chrome, Firefox, Edge, Safari, Opera
 
 #### Extension URL
 - Chrome: https://chrome.google.com/webstore/detail/refoorest-plantez-des-arb/lfngfmpnafmoeigbnpdfgfijmkdndmik
@@ -345,7 +346,7 @@ reeforest is a free solution to plant trees without changing your search engine:
 OpenTabs lets you fight climate change in the most affordable and convenient way possible. Our extension replaces your new tab page with a personal dashboard that saves a tree for every 10 tabs you open.
 
 #### Browser compatibility
-
+Chrome, Firefox, Edge, Safari
 #### Extension URL
 - Chrome: https://chrome.google.com/webstore/detail/opentabs-save-trees-by-op/igeeighenacaciapkehcacnojlegbnpa
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/opentabs
