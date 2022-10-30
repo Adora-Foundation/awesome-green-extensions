@@ -256,7 +256,40 @@ https://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakn
 
 ### freetree
 
+#### Description
+With freetree, online shopping turns into a tree planting campaign - free of charge and with just 1 click!
+🌳 🌳 🌳 Want to know more ? Have a look at https://www.freetree.io <br>
+🌳 🌳 🌳💫 What are you waiting for? Install, activate, plant trees.🌳
+
+#### Browser compatibility
+Chrome, Firefox, Edge, Safari, Opera
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/freetree-kostenlos-b%C3%A4ume/kpmomkdjbjegllmkphagalfjaphhfgof?hl=en&gl=US
+
+Firefox:
+https://addons.mozilla.org/en/firefox/addon/freetree_shop-and-plant-trees
+
+Microsoft Edge:
+https://microsoftedge.microsoft.com/addons/detail/freetree-pflanze-b%C3%A4ume-/moocilmegnojnbhldafheflbpeoeehfm
+
+Safari:
+https://apps.apple.com/en/app/freetree-b%C3%A4ume-pflanzen/id1551830463
+
+Opera: 
+https://addons.opera.com/en/extensions/details/freetree-pflanze-baume-beim-online-einkauf
+
+#### Extension size
+2.93MiB
+
+#### Extension last updated
+August 31, 2022
+
+* * *
+
 ### Earth Mode
+
+See information under *CO2 emissions trackers and green website raters* <a href="#CO2-emissions-trackers-and-green-website-raters">here</a>
 
 ### Bambeere
 
