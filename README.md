@@ -327,7 +327,7 @@ March 1, 2021
 ### refoorest
 
 #### Description
-reeforest is a free solution to plant trees without changing your search engine: https://www.refoorest.com/en/
+refoorest is a free solution to plant trees without changing your search engine: https://www.refoorest.com/en/
 
 #### Browser compatibility
 
