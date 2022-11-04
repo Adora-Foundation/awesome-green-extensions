@@ -271,12 +271,124 @@ https://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakn
 
 ### Music Mode for YouTube
 
-### Temporary Content Settings
+#### Description
 
-### YouGreen
+Blocks video, keeping only the audio on YouTube and YouTube Music. A great extension to reduce the use of CPU and GPU, save bandwidth and hide NSFW content. Works on YouTube, YouTube Music and YouTube videos embedded in sites.
 
-### h264ify
+#### Browser compatibility
+Chrome, Firefox
+
+#### Extension URL
+- Chrome: https://chrome.google.com/webstore/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna/related?hl=en
+- Firefox: https://addons.mozilla.org/el/firefox/addon/music-mode-for-youtube/
+
+#### Extension size
+131KiB
+
+#### Extension last updated
+October 29 2022
+
+* * *
+
+### Adblock for Youtube
+
+#### Description
+Block all the video ads on Youtube™ . Youtube Adblock Plus extension automatically skips all the video ads.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/adblock-plus-for-youtube/gcmodjdigfgdkpelopekhcicmielbkbi
+
+#### Extension size
+112KiB
+
+#### Extension last updated
+October 19, 2022
+
+* * *
 
 ### Enable JavaScript
 
-### Adblock for Youtube
+#### Description
+An easy way to turn ON/OFF website's JavaScript with a single button.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/enable-javascript/egljjlhdimceghlkloddalnlpgdgkboj?hl=en
+
+#### Extension size
+197KiB
+
+#### Extension last updated
+March 14, 2022
+
+* * *
+
+### YouGreen
+
+#### Description
+*This extension is not actively maintained and may no longer work as expected*
+
+Listen to music on YouTube without wasting tons of GB data when it's playing in a background tab by adjusting video quality. No compromise in audio quality!
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/yougreen-save-data-one-vi/kkmjnhmmeibepfpgnfpodpfjfahbmalm?hl=en
+
+#### Extension size
+27.32KiB
+
+#### Extension last updated
+October 18, 2020
+
+* * *
+
+### h264ify
+
+#### Description
+*This extension is not actively maintained and may no longer work as expected*
+
+Makes YouTube stream H.264 videos instead of VP8/VP9 videos. Try h264ify if YouTube videos stutter, take up too much CPU, eat battery life, or make your laptop hot.
+Learn more on github: https://github.com/erkserkserks/h264ify
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=en
+
+#### Extension size
+30.0KiB
+
+#### Extension last updated
+September 8, 2019
+
+* * *
+
+### Temporary Content Settings
+
+*This extension is not actively maintained and may no longer work as expected*
+
+Quickly make exceptions to content settings (JavaScript, cookies, images, plug-ins) for some or all sites for a set time through a button or popup menu.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/temporary-content-setting/kcpgnedeigljfpmokkmdonpejdghocff?hl=en#:~:text=Temporary%20Content%20Settings%20lets%20you,must%20later%20be%20cleared%20manually.
+
+#### Extension size
+33.78KiB
+
+#### Extension last updated
+June 18, 2017
+
+* * *
+
+
