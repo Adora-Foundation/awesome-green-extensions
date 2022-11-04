@@ -323,7 +323,7 @@ March 31, 2021
 
 * * *
 
-### OVO carbon Capper 
+### OVO Carbon Capper 
 
 #### Description
 The Carbon Capper for Chrome will send you a pop-up alert every time you hit send on an email with fewer than four words, prompting you to stop and think before hitting send.
