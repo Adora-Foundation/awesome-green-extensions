@@ -256,16 +256,116 @@ https://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakn
 
 ### freetree
 
+#### Description
+With freetree, online shopping turns into a tree planting campaign - free of charge and with just 1 click!
+🌳 🌳 🌳 Want to know more ? Have a look at https://www.freetree.io 🌳 🌳 🌳💫 What are you waiting for? Install, activate, plant trees.🌳
+
+#### Browser compatibility
+Chrome, Firefox, Edge, Safari, Opera
+
+#### Extension URL
+- Chrome: https://chrome.google.com/webstore/detail/freetree-kostenlos-b%C3%A4ume/kpmomkdjbjegllmkphagalfjaphhfgof?hl=en&gl=US
+- Firefox: https://addons.mozilla.org/en/firefox/addon/freetree_shop-and-plant-trees
+- Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/freetree-pflanze-b%C3%A4ume-/moocilmegnojnbhldafheflbpeoeehfm
+- Safari: https://apps.apple.com/en/app/freetree-b%C3%A4ume-pflanzen/id1551830463
+- Opera: https://addons.opera.com/en/extensions/details/freetree-pflanze-baume-beim-online-einkauf
+
+#### Extension size
+2.93MiB
+
+#### Extension last updated
+August 31, 2022
+
+* * *
+
 ### Earth Mode
+
+See information under *CO2 emissions trackers and green website raters* <a href="#Earth-Mode">here</a>
 
 ### Bambeere
 
+#### Description
+
+*This extension currently has some bugs and may not work as expected*
+
+Add this extension to Chrome, and every time you open a new tab, we'll show you an ad that helps fund sustainable bamboo forests that clean the atmosphere and restore balance.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+https://chrome.google.com/webstore/detail/bambeere-%E2%80%94-the-browser-ta/hdiiakgcahadnmkfhhbbjeaiibhocena?hl=en
+
+#### Extension size
+60.54KiB
+
+#### Extension last updated
+July 22, 2019
+
 ### Treegle
+
+#### Description
+*This extension currently has some bugs and may not work as expected*
+
+This extension sets your search engine to Treegle and customizes your new tab page so you can plant trees with every search.
+Treegle uses the bing search engine, but donates search and ad revenue to reforestation projects.
+
+#### Browser compatibility
+Chrome
+
+#### Extension URL
+Chrome: https://chrome.google.com/webstore/detail/treegle-the-search-engine/aiahlgedjiphidblflgipnjjfjcfcbak/related?hl=en
+
+#### Extension size
+348KiB
+
+#### Extension last updated
+March 1, 2021
+
+* * *
 
 ### refoorest
 
+#### Description
+refoorest is a free solution to plant trees without changing your search engine: https://www.refoorest.com/en/
+
+#### Browser compatibility
+
+Chrome, Firefox, Edge, Safari, Opera
+
+#### Extension URL
+- Chrome: https://chrome.google.com/webstore/detail/refoorest-plantez-des-arb/lfngfmpnafmoeigbnpdfgfijmkdndmik
+- Firefox: https://addons.mozilla.org/addon/refoorest?src=external-refoorest-site
+- Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/refoorest-plantez-des-a/dkfehkddclgjacpikbcmjgflpmmdgcgk
+- Safari: https://apps.apple.com/app/refoorest-plant-trees/id1633054111
+- Opera: https://chrome.google.com/webstore/detail/refoorest-plantez-des-arb/lfngfmpnafmoeigbnpdfgfijmkdndmik 
+
+#### Extension size
+141KiB
+
+#### Extension last updated
+6 July 2022
+
+* * *
 ### OpenTabs
 
+#### Description
+OpenTabs lets you fight climate change in the most affordable and convenient way possible. Our extension replaces your new tab page with a personal dashboard that saves a tree for every 10 tabs you open.
+
+#### Browser compatibility
+Chrome, Firefox, Edge, Safari
+#### Extension URL
+- Chrome: https://chrome.google.com/webstore/detail/opentabs-save-trees-by-op/igeeighenacaciapkehcacnojlegbnpa
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/opentabs
+- Edge: https://microsoftedge.microsoft.com/addons/detail/opentabs/oaljniopiimfdkdoppegcoikkaaingln
+- Safari: https://apps.apple.com/es/app/opentabs/id1607542045?l=en&mt=12
+#### Extension size
+1.46MiB
+
+#### Extension last updated
+19 October 2022
+
+* * *
 
 ## Graceful degradation tools
 
