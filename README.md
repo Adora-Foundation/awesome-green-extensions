@@ -19,12 +19,10 @@ Globemallow uses the US Academic Grading System:
 
 - Energy consumption estimations are supplied by The Shift Project: https://github.com/carbonalyser/Carbonalyser
 
-#### Browser compatibility
-Available on Chrome and Edge.
+#### Browser compatibility (click to view extension URL)
 
-#### Extension URL
-- Chrome: https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd
-- Edge: https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc
+<a href="https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
 
 #### Extension size
 97.55KiB
