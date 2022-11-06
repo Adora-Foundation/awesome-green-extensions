@@ -41,13 +41,10 @@ The extension allows you to use your Dev Tools to:
 This extension is also open-source! More information on https://github.com/cnumr/GreenIT-Analysis
 If you experience any bugs with this extension, the project README file on github has some helpful information regarding permissions and fixes.
 
-#### Browser compatibility
-Chrome, FireFox
+#### Browser compatibility (click to view extension URL)
+<a href="https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
 
-#### Extension URL
-
-- Chrome: https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad
-- Firefox: https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/
 #### Extension size
 269KiB
 
@@ -68,10 +65,8 @@ Features :
 
 The extension does not collect any data and does not use any external server. Learn more here: https://www.website-footprint.com/en/
 
-#### Browser compatibility
-Chrome
-#### Extension URL
-https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigbllcnpckflnik
+#### Browser compatibility (click to view extension URL)
+<a href="https://chrome.google.com/webstore/detail/website-footprint/jlpnojjijmliogpegigbllcnpckflnik"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
 
 #### Extension size
 12.72KiB
