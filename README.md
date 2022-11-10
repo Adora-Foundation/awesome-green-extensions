@@ -163,7 +163,8 @@ This extension automatically runs the site you’re browsing through [digitalbea
 ### Carbonly
 
 #### Description
-Please note that this extension has been taken off chrome store. For research purposes, you can learn more here: https://www.carbonly.org/landing
+*Please note that this extension has been taken off chrome store. For research purposes, you can learn more here: https://www.carbonly.org/landing.*
+
 Key features of the Carbonly 🌿 extension:
 (#1) Visualise the Emissions of Everyday Products 💨
 (#2) Track The Carbon Footprint of Any Purchase  🎁
