@@ -25,8 +25,8 @@ Globemallow uses the US Academic Grading System:
 
 #### Browser compatibility (click to view extension URL)
 
-<a href="https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
-<a href="https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
+<a href="https://chrome.google.com/webstore/detail/globemallow/jibhiolaefbcfiahgolfpmngjefngdmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> | 
+<a href="https://microsoftedge.microsoft.com/addons/detail/globemallow/nbdlhghpkjhadffcigbopbbpdflcgnhc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a>
 
 #### Extension size
 97.55KiB
