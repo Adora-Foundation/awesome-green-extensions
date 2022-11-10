@@ -1,5 +1,9 @@
 # awesome-green-extensions
-A list of climate friendly extensions that can help you reduce the carbon footprint of your internet consumption. Work in progress. Needs links and descriptions and currently focused on Chrome.  Feel free to recommend more via Issue or ideally PR.
+A list of climate friendly extensions that can help you reduce the carbon footprint of your internet consumption. This list is a work in progress – feel free to contribute via an Issue or PR!
+
+* Quick find: *
+
+CO2 emissions trackers and green website raters | Browser energy consumption optimisers | Carbon offset generators | Graceful degradation tools
 
 ## CO2 emissions trackers and green website raters
 
@@ -392,10 +396,10 @@ March 1, 2021
 refoorest is a free solution to plant trees without changing your search engine: https://www.refoorest.com/en/
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/refoorest-plantez-des-arb/lfngfmpnafmoeigbnpdfgfijmkdndmik"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a>
-<a href="https://addons.mozilla.org/addon/refoorest?src=external-refoorest-site"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
-<a href="https://microsoftedge.microsoft.com/addons/detail/refoorest-plantez-des-a/dkfehkddclgjacpikbcmjgflpmmdgcgk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
-<a href="https://apps.apple.com/app/refoorest-plant-trees/id1633054111"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="20" /> Safari</a>
+<a href="https://chrome.google.com/webstore/detail/refoorest-plantez-des-arb/lfngfmpnafmoeigbnpdfgfijmkdndmik"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> |
+<a href="https://addons.mozilla.org/addon/refoorest?src=external-refoorest-site"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a> |
+<a href="https://microsoftedge.microsoft.com/addons/detail/refoorest-plantez-des-a/dkfehkddclgjacpikbcmjgflpmmdgcgk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a> |
+<a href="https://apps.apple.com/app/refoorest-plant-trees/id1633054111"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="20" /> Safari</a> |
 <a href="https://chrome.google.com/webstore/detail/refoorest-plantez-des-arb/lfngfmpnafmoeigbnpdfgfijmkdndmik"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" /> Opera</a>
 
 #### Extension size
@@ -411,9 +415,9 @@ refoorest is a free solution to plant trees without changing your search engine:
 OpenTabs lets you fight climate change in the most affordable and convenient way possible. Our extension replaces your new tab page with a personal dashboard that saves a tree for every 10 tabs you open.
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/opentabs-save-trees-by-op/igeeighenacaciapkehcacnojlegbnpa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/opentabs"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
-<a href="https://microsoftedge.microsoft.com/addons/detail/opentabs/oaljniopiimfdkdoppegcoikkaaingln"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
+<a href="https://chrome.google.com/webstore/detail/opentabs-save-trees-by-op/igeeighenacaciapkehcacnojlegbnpa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> |
+<a href="https://addons.mozilla.org/en-US/firefox/addon/opentabs"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a> |
+<a href="https://microsoftedge.microsoft.com/addons/detail/opentabs/oaljniopiimfdkdoppegcoikkaaingln"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a> |
 <a href="https://apps.apple.com/es/app/opentabs/id1607542045?l=en&mt=12"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="20" /> Safari</a>
 
 #### Extension size
@@ -433,8 +437,8 @@ OpenTabs lets you fight climate change in the most affordable and convenient way
 Blocks video, keeping only the audio on YouTube and YouTube Music. A great extension to reduce the use of CPU and GPU, save bandwidth and hide NSFW content. Works on YouTube, YouTube Music and YouTube videos embedded in sites.
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna/related?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
-<a href="https://addons.mozilla.org/el/firefox/addon/music-mode-for-youtube/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
+<a href="https://chrome.google.com/webstore/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna/related?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> |
+<a href="https://addons.mozilla.org/el/firefox/addon/music-mode-for-youtube/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a>
 
 #### Extension size
 131KiB
@@ -450,7 +454,7 @@ October 29 2022
 Block all the video ads on Youtube™ . Youtube Adblock Plus extension automatically skips all the video ads.
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/adblock-plus-for-youtube/gcmodjdigfgdkpelopekhcicmielbkbi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://chrome.google.com/webstore/detail/adblock-plus-for-youtube/gcmodjdigfgdkpelopekhcicmielbkbi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a>
 
 #### Extension size
 112KiB
@@ -466,7 +470,7 @@ October 19, 2022
 An easy way to turn ON/OFF website's JavaScript with a single button.
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/enable-javascript/egljjlhdimceghlkloddalnlpgdgkboj?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://chrome.google.com/webstore/detail/enable-javascript/egljjlhdimceghlkloddalnlpgdgkboj?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a>
 
 #### Extension size
 197KiB
@@ -484,7 +488,7 @@ March 14, 2022
 Listen to music on YouTube without wasting tons of GB data when it's playing in a background tab by adjusting video quality. No compromise in audio quality!
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/yougreen-save-data-one-vi/kkmjnhmmeibepfpgnfpodpfjfahbmalm?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://chrome.google.com/webstore/detail/yougreen-save-data-one-vi/kkmjnhmmeibepfpgnfpodpfjfahbmalm?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a>
 
 #### Extension size
 27.32KiB
@@ -503,7 +507,7 @@ Makes YouTube stream H.264 videos instead of VP8/VP9 videos. Try h264ify if YouT
 Learn more on github: https://github.com/erkserkserks/h264ify
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a>
 
 #### Extension size
 30.0KiB
@@ -520,7 +524,7 @@ September 8, 2019
 Quickly make exceptions to content settings (JavaScript, cookies, images, plug-ins) for some or all sites for a set time through a button or popup menu.
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/temporary-content-setting/kcpgnedeigljfpmokkmdonpejdghocff?hl=en#:~:text=Temporary%20Content%20Settings%20lets%20you,must%20later%20be%20cleared%20manually."><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://chrome.google.com/webstore/detail/temporary-content-setting/kcpgnedeigljfpmokkmdonpejdghocff?hl=en#:~:text=Temporary%20Content%20Settings%20lets%20you,must%20later%20be%20cleared%20manually."><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a>
 
 #### Extension size
 33.78KiB
