@@ -42,8 +42,8 @@ This extension is also open-source! More information on https://github.com/cnumr
 If you experience any bugs with this extension, the project README file on github has some helpful information regarding permissions and fixes.
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
+<a href="https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> | 
+<a href="https://addons.mozilla.org/en-US/firefox/addon/greenit-analysis/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a>
 
 #### Extension size
 269KiB
@@ -157,7 +157,7 @@ Digital Beacon is an online tool that calculates and provides a detailed report 
 This extension automatically runs the site you’re browsing through [digitalbeacon.co](http://digitalbeacon.co/) and takes you to the results page. Great for on-the-fly testing.
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/beacon/bflpbnopaodpkggmcehmpdneahmnckek"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://chrome.google.com/webstore/detail/beacon/bflpbnopaodpkggmcehmpdneahmnckek"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> | 
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/beacon/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
 
 
@@ -222,8 +222,8 @@ This one's for those of us who like to have multiple (or hundreds ¯\_(ツ)_/¯)
 Key features: automatically suspend, park, and hibernate inactive tabs; save up to 80% of memory; reduce heat, batter use and load on your device.
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://microsoftedge.microsoft.com/addons/detail/tab-suspender/mibmemlpefkkpbgcoicdfggnmjfajgpg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
-<a href="https://addons.opera.com/en/extensions/details/tab-suspender-tab-unloader/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" /> Opera</a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/tab-suspender/mibmemlpefkkpbgcoicdfggnmjfajgpg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a> | 
+<a href="https://addons.opera.com/en/extensions/details/tab-suspender-tab-unloader/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" /> Opera</a> | 
 <a href="https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
 
 #### Extension size
@@ -241,10 +241,10 @@ An open-source and wide-spectrum content blocker with CPU and memory efficiency 
 Learn more on Github: https://github.com/gorhill/uBlock
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
-<a href="https://addons.opera.com/en/extensions/details/ublock/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" /> Opera</a>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
-<a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
+<a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> | 
+<a href="https://addons.opera.com/en/extensions/details/ublock/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" /> Opera</a> | 
+<a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a> | 
+<a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a>
 
 #### Extension size
 2.91MiB
@@ -261,10 +261,10 @@ Save up to 95% of memory and reduce tab clutter; whenever you find yourself with
 This one is super easy to use!
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
-<a href="https://apps.apple.com/gb/app/onetab/id1540160809"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="20" /> Safari</a>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/onetab/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
-<a href="https://microsoftedge.microsoft.com/addons/detail/onetab/hoimpamkkoehapgenciaoajfkfkpgfop"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
+<a href="https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> | 
+<a href="https://apps.apple.com/gb/app/onetab/id1540160809"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="20" /> Safari</a> | 
+<a href="https://addons.mozilla.org/en-US/firefox/addon/onetab/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a> | 
+<a href="https://microsoftedge.microsoft.com/addons/detail/onetab/hoimpamkkoehapgenciaoajfkfkpgfop"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a>
 
 
 #### Extension size
@@ -331,10 +331,10 @@ With freetree, online shopping turns into a tree planting campaign - free of cha
 🌳 🌳 🌳 Want to know more ? Have a look at https://www.freetree.io 🌳 🌳 🌳💫 What are you waiting for? Install, activate, plant trees.🌳
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/freetree-kostenlos-b%C3%A4ume/kpmomkdjbjegllmkphagalfjaphhfgof?hl=en&gl=US"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
-<a href="https://addons.opera.com/en/extensions/details/freetree-pflanze-baume-beim-online-einkauf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" /> Opera</a>
-<a href="https://addons.mozilla.org/en/firefox/addon/freetree_shop-and-plant-trees"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
-<a href="https://microsoftedge.microsoft.com/addons/detail/freetree-pflanze-b%C3%A4ume-/moocilmegnojnbhldafheflbpeoeehfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
+<a href="https://chrome.google.com/webstore/detail/freetree-kostenlos-b%C3%A4ume/kpmomkdjbjegllmkphagalfjaphhfgof?hl=en&gl=US"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a> | 
+<a href="https://addons.opera.com/en/extensions/details/freetree-pflanze-baume-beim-online-einkauf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="20" /> Opera</a> | 
+<a href="https://addons.mozilla.org/en/firefox/addon/freetree_shop-and-plant-trees"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a> | 
+<a href="https://microsoftedge.microsoft.com/addons/detail/freetree-pflanze-b%C3%A4ume-/moocilmegnojnbhldafheflbpeoeehfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a> | 
 <a href="https://apps.apple.com/en/app/freetree-b%C3%A4ume-pflanzen/id1551830463"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="20" /> Safari</a>
 
 
@@ -392,7 +392,7 @@ March 1, 2021
 refoorest is a free solution to plant trees without changing your search engine: https://www.refoorest.com/en/
 
 #### Browser compatibility (click to view extension URL)
-<a href="https://chrome.google.com/webstore/detail/refoorest-plantez-des-arb/lfngfmpnafmoeigbnpdfgfijmkdndmik"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a><br>
+<a href="https://chrome.google.com/webstore/detail/refoorest-plantez-des-arb/lfngfmpnafmoeigbnpdfgfijmkdndmik"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="20" /> Chrome</a>
 <a href="https://addons.mozilla.org/addon/refoorest?src=external-refoorest-site"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="20" /> Firefox</a><br>
 <a href="https://microsoftedge.microsoft.com/addons/detail/refoorest-plantez-des-a/dkfehkddclgjacpikbcmjgflpmmdgcgk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="20" /> Edge</a><br>
 <a href="https://apps.apple.com/app/refoorest-plant-trees/id1633054111"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="20" /> Safari</a>
