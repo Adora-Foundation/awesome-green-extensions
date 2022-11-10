@@ -5,7 +5,7 @@ A list of climate friendly extensions that can help you reduce the carbon footpr
 
 <a href="#Earth-Mode">here</a>
 
-<a href="co2-emissions-trackers-and-green-website-raters">CO2 emissions trackers and green website raters </a>| <a href="Browser-energy-consumption">Browser energy consumption optimisers</a> | <a href="">Carbon offset generators</a>| <a href="">Graceful degradation tools</a>
+<a href="#CO2-emissions-trackers-and-green-website-raters">CO2 emissions trackers and green website raters </a>| <a href="#Browser-energy-consumption">Browser energy consumption optimisers</a> | <a href="">Carbon offset generators</a>| <a href="">Graceful degradation tools</a>
 
 ## CO2 emissions trackers and green website raters
 
