@@ -1,11 +1,9 @@
 # awesome-green-extensions
 A list of climate friendly extensions that can help you reduce the carbon footprint of your internet consumption. This list is a work in progress – feel free to contribute via an Issue or PR!
 
-* Quick find: *
+**Quick find:**
 
-<a href="#Earth-Mode">here</a>
-
-<a href="#CO2-emissions-trackers-and-green-website-raters">CO2 emissions trackers and green website raters </a>| <a href="#Browser-energy-consumption">Browser energy consumption optimisers</a> | <a href="">Carbon offset generators</a>| <a href="">Graceful degradation tools</a>
+<a href="#CO2-emissions-trackers-and-green-website-raters">CO2 emissions trackers and green website raters </a>| <a href="#Browser-energy-consumption-optimisers">Browser energy consumption optimisers</a> | <a href="#Carbon-offset-generators">Carbon offset generators</a>| <a href="#Graceful-degradation-tools">Graceful degradation tools</a>
 
 ## CO2 emissions trackers and green website raters
 
