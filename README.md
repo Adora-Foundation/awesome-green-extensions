@@ -4,10 +4,10 @@ It is conceived as a valuable resource in its own right, and as Research and Dev
 
 ## Contents
 
-- [CO2 emissions trackers and green website raters](https://github.com/Adora-Foundation/awesome-green-extensions/edit/main/README.md#co2-emissions-trackers-and-green-website-raters)
-- [Browser energy consumption optimisers](https://github.com/Adora-Foundation/awesome-green-extensions/edit/main/README.md#browser-energy-consumption-optimisers)
-- [Carbon offset generators](https://github.com/Adora-Foundation/awesome-green-extensions/edit/main/README.md#carbon-offset-generators)
-- [Graceful degradation tools](https://github.com/Adora-Foundation/awesome-green-extensions/edit/main/README.md#graceful-degradation-tools)
+- [CO2 emissions trackers and green website raters](#co2-emissions-trackers-and-green-website-raters)
+- [Browser energy consumption optimisers](#browser-energy-consumption-optimisers)
+- [Carbon offset generators](#carbon-offset-generators)
+- [Graceful degradation tools](#graceful-degradation-tools)
 
 ## CO2 emissions trackers and green website raters
 
