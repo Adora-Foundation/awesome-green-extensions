@@ -1,4 +1,4 @@
-# awesome-green-extensions
+# :deciduous_tree: awesome-green-extensions
 A list of climate friendly browser extensions and scripts that can help you reduce the carbon footprint of your internet consumption. 
 It is conceived as a valuable resource in its own right, and as Research and Development for the [Adora Foundation](adorafoundation.org)'s [Green Mode Design](ismaelvelasco.dev/series/green-mode-design) programme.
 
