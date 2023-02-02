@@ -64,3 +64,5 @@ If you need help, you can ask a question on an issue you are looking at resolvin
 * * *
 
 ```
+
+### [back to the awesome-green-extensions list](/README.md)
