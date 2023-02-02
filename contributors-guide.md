@@ -13,7 +13,7 @@ The extensions and user scripts collected through this project are used as resea
 Each extension listed here provides a description, browser compatibility information and links (so you can add the extension yourself), extension size, and the last date it was updated (when this info was recorded). Use these extensions for your own research into developing green extensions (the more the merrier after all!) or simply use what exists to make your browsing more environmentally friendly 💚
 
 ## what do I need to know to help?
-If you are looking to help to with a code contribution our project uses markdown and a [simple template](#resources). 
+If you are looking to help with a code contribution, our project uses markdown and a [simple template](#resources). 
 
 If you don't feel ready to make a code contribution yet, no problem! You can also check out the [project issues](https://github.com/Adora-Foundation/awesome-green-extensions/issues) to see what needs to be done. And you can always comment on an issue with a question if it needs more attention.
 
@@ -21,3 +21,25 @@ If you are interested in making a code contribution to this repo, below are some
 - [Guide to working with Markdown (markdownguide.org)](https://www.markdownguide.org/getting-started/)
 - [Learn more about the Adora Foundation] (https://github.com/Adora-Foundation)
 - [Adora Foundation green mode design program] (https://ismaelvelasco.dev/series/green-mode-design)
+
+
+## resources
+1. Extension template (markdown - *To be used when inserting a new extension to the list*)
+
+```
+### NAME
+
+#### Description
+
+#### Browser compatibility
+
+
+#### Extension URL
+
+#### Extension size
+
+#### Extension last updated
+
+* * *
+
+```
