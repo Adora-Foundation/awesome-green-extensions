@@ -10,7 +10,7 @@ The awesome-green-extensions project is both a research project and a valuable r
 
 The extensions and user scripts collected through this project are used as research and development for the Adora Foundation's [Green Mode Extension](https://github.com/Adora-Foundation/green-mode-extension) – an extension that allows you to green all the websites you visit and reduce your environmental footprint while browsing!
 
-Each extension listed here provides a description, browser compatibility information and links (so you can add the extension yourself), extension size, and the last date it was updated (when this info was recorded). Use these extensions for your own research into developing green extensions (the more the merrier after all!) or simply use what exists to make your browsing more environmentally friendly 💚
+Each extension listed here provides a description, browser compatibility information and links (so you can add the extension yourself), extension size, and the date the extension was last updated (as of when the extension info was last checked by us). Use these extensions for your own research into developing green extensions (the more the merrier after all!) or simply use what exists to make your browsing more environmentally friendly 💚
 
 ## what do I need to know to help?
 If you are looking to help with a code contribution, our project uses markdown and a [simple template](#resources). 
