@@ -41,6 +41,9 @@ Never made an open source contribution before? Wondering how contributions work 
 13. Make changes to the pull request if the reviewing maintainer recommends them.
 14. Woohoo! Your pull request has been merged. Celebrate your success 🥳 Thank you so much!
 
+## where can I go for help?
+If you need help, you can ask a question on an issue you are looking at resolving or join the [Adora Foundation slack community](https://join.slack.com/t/adora-foundation/shared_invite/zt-1otudjm68-Hzzl4Cs_BA~HnpGXHfHrhQ) and drop your question in the *#project-awesome-green-extensions* channel.
+
 ## resources
 1. Extension template (markdown - *To be used when inserting a new extension to the list*)
 
