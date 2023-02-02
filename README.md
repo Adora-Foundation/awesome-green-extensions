@@ -9,6 +9,10 @@ It's conceived as a valuable resource in its own right, and as research and deve
 - [Carbon offset generators](#carbon-offset-generators)
 - [Graceful degradation tools](#graceful-degradation-tools)
 
+## Contribute!
+To learn how you can contribute to this open source project, check out our contributors guide [here](/contributors-guide.md).
+
+***
 ## CO2 emissions trackers and green website raters
 
 ### Globemallow
