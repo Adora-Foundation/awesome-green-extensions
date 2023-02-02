@@ -19,8 +19,8 @@ If you don't feel ready to make a code contribution yet, no problem! You can als
 
 If you are interested in making a code contribution to this repo, below are some helpful resources about working with markdown and the Adora Foundation. 
 - [Guide to working with Markdown (markdownguide.org)](https://www.markdownguide.org/getting-started/)
-- [Learn more about the Adora Foundation] (https://github.com/Adora-Foundation)
-- [Adora Foundation green mode design program] (https://ismaelvelasco.dev/series/green-mode-design)
+- [Learn more about the Adora Foundation](https://github.com/Adora-Foundation)
+- [Adora Foundation green mode design program](https://ismaelvelasco.dev/series/green-mode-design)
 
 
 ## resources
