@@ -27,7 +27,7 @@ If you are interested in making a code contribution to this repo, below are some
 Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown!
 
 1. Find an issue that you are interested in addressing or an extension that you would like to add to the list.
-2. [Fork the project repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) . This means that you will have a copy of the repository under your-GitHub-username/repository-name.
+2. [Fork this project repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) . This means that you will have a copy of awesome-green-extensions repository under your-GitHub-username/repository-name.
 3. [Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local machine using git clone.
 4. Create a new branch for your fix using `git checkout -b branch-name-here`.
 5. Make the appropriate changes for the issue you are trying to address or the extension information that you want to add. If you are adding an extension to the list please [follow this template](#resources).
