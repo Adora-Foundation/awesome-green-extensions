@@ -10,6 +10,7 @@ It's conceived as a valuable resource in its own right, and as research and deve
 - [Graceful degradation tools](#graceful-degradation-tools)
 
 ## Contribute!
+We are always looking to grow this list, and we often have issues open for this project where a helping hand would be most appreciated by the team!
 To learn how you can contribute to this open source project, check out our contributors guide [here](/contributors-guide.md).
 
 ***

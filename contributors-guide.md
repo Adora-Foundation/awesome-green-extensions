@@ -10,12 +10,12 @@ The awesome-green-extensions project is both a research project and a valuable r
 
 The extensions and user scripts collected through this project are used as research and development for the Adora Foundation's [Green Mode Extension](https://github.com/Adora-Foundation/green-mode-extension) – an extension that allows you to green all the websites you visit and reduce your environmental footprint while browsing!
 
-Each extension listed here provides a description, browser compatibility information and links (so you can add the extension yourself), extension size, and the date the extension was last updated (as of when the extension info was last checked by us). Use these extensions for your own research into developing green extensions (the more the merrier after all!) or simply use what exists to make your browsing more environmentally friendly 💚
+Each extension listed here provides a description, browser compatibility information and links (so you can add the extension yourself), extension size, and the date the extension was last updated (as of when the extension info was last checked by us). Use these extensions for your own research into developing green extensions (the more the merrier after all) or simply use what exists to make your browsing more environmentally friendly 💚
 
 ## what do I need to know to help?
-If you are looking to help with a code contribution, our project uses markdown and a [simple template](#resources). 
+If you're looking to help with a code contribution, our project uses markdown and a [simple template](#resources). 
 
-If you don't feel ready to make a code contribution yet, no problem! You can also check out the [project issues](https://github.com/Adora-Foundation/awesome-green-extensions/issues) to see what needs to be done. And you can always comment on an issue with a question if it needs more attention.
+If you don't feel ready to make a code contribution yet, no problem! You're welcome to check out the [project issues](https://github.com/Adora-Foundation/awesome-green-extensions/issues) to see what needs to be done. And you can always comment on an issue with a question if it needs more attention.
 
 If you are interested in making a code contribution to this repo, below are some helpful resources about working with markdown and the Adora Foundation. 
 - [Guide to working with Markdown (markdownguide.org)](https://www.markdownguide.org/getting-started/)
@@ -24,7 +24,7 @@ If you are interested in making a code contribution to this repo, below are some
 
 ## how do I make a contribution?
 
-Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown!
+Here's a quick rundown of the steps you can take to contribute to this project!
 
 1. Find an issue that you are interested in addressing or an extension that you would like to add to the list.
 2. [Fork this project repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) . This means that you will have a copy of awesome-green-extensions repository under your-GitHub-username/repository-name.
